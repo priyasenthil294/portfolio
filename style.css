@@ -1,0 +1,151 @@
+.head{
+    display: flex;
+    height: 75px;
+    width: 1500px;
+    position: fixed;
+    color: white;
+    background: black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    border: transparent;
+}
+#h2{
+    margin-left: 5px;
+}
+#link{
+    height: 50px;
+    width: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+    margin-left: 700px;
+    justify-content: space-evenly;
+}
+#home{
+    height: 700px;
+    width: 1460px;
+    border: 2px solid black;
+    margin-top: -8px;
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#quotes{
+    text-align: center;
+    padding-top: 260px;
+}
+#bio{
+    margin: auto;
+}
+
+#bio_main{
+    
+    display: flex;
+    height: 700px;
+    width: 1460px;
+    border: 2px solid black;
+    background-color: pink;
+}
+#na{
+    margin-left: 100px;
+    margin-top: -180px;
+}
+#b{
+    height: 250px;
+    width: 350px;
+    margin-top: 150px;
+    border-radius: 0%;
+    margin-left: 30px;
+}
+#p1{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#btn{
+    height: 60px;
+    width: 250px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-left: 100px;
+    background: black;
+    font-size: large;
+}
+#port{
+    height: 700px;
+    width: 1460px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: yellowgreen;
+   
+}
+img{
+    margin-top: 30px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+#d1,#d2,#d3{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+    margin-top: 60px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+}
+#d5{
+    display: flex;
+}
+#d4{
+    margin-top: 90px;
+    height: 75px;
+    width: 500px;
+    margin-left: 400px;
+}
+#d1{
+    margin-left: 280px;
+}
+#skill_main{
+    height: 700px;
+    width: 1460px;
+    border: 2px solid black;
+    background-color:rgb(180, 104, 180);
+    
+}
+#skill{
+    display: flex;
+    justify-content: space-around;
+}
+#s{
+    text-align: center;
+    margin-top: 100px;
+
+}
+#cont{
+    height: 300px;
+    width: 1460px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 105px;
+    margin-left: -2px;
+    background-color: plum;
+}
+#icon{
+    height:25px;
+    width:25px;
+    margin-bottom: -9px;
+}
+progress::-webkit-progress-value{
+    background:rgb(255, 0, 0);
+}
+progress::-webkit-progress-bar{
+    background: black;
+    
+}
+progress{
+    background:aqua;
+    
+}
